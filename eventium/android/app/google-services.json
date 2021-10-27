@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656729803797",
+    "firebase_url": "https://eventium-d5611-default-rtdb.firebaseio.com",
+    "project_id": "eventium-d5611",
+    "storage_bucket": "eventium-d5611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656729803797:android:88f4439b9ef330ca86d21c",
+        "android_client_info": {
+          "package_name": "com.example.eventiumproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656729803797-okjdpivevbth2hu8m3k0qesstatras4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0L9cbDMRLKB4mIolaovTTZSCt1KzLVGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656729803797-okjdpivevbth2hu8m3k0qesstatras4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
